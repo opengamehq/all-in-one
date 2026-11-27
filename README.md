@@ -22,7 +22,7 @@ How the skills fit into making and shipping a game is at [docs.opengame.io](http
 
 ## Changes
 
-This is version 1.0.19. [CHANGELOG.md](CHANGELOG.md) lists what changed in each one.
+This is version 1.0.20. [CHANGELOG.md](CHANGELOG.md) lists what changed in each one.
 
 ## Issues
 
